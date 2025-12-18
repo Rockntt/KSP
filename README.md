@@ -27,3 +27,4 @@
 - **`file1.txt`**, **`file2.txt`** — текстовые файлы с данными о полётах
 - **`graphical_analysis.py`** — код построения графиков
 - **`vessel_data_collection.py`** — код записи телеметрии полётов
+- https://drive.google.com/drive/folders/1bj1Vtsxr-olpsWbZfN3TEigsmM88Cc4r?usp=drive_link - видео полета, видео защиты
